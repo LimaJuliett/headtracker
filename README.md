@@ -1,5 +1,5 @@
 # headtracker
-.stl files for a headtracker, designed to be 3d printed and attached to a baseball cap with M3 hardware
+.stl and Fusion 360 files for a headtracker, designed to be 3d printed and attached to a baseball cap with M3 hardware
 
 The brow support was not necessary in my case; the frame is quite stable in roll bolted straight onto the hat. I used 10mm long M3 screws and standard M3 nuts. 12mm long M3 screws should be used if the brow support is used.
 
