@@ -5,5 +5,7 @@ The brow support was not necessary in my case; the frame is quite stable in roll
 
 Circuit design is left to you (there are many ways to power three LEDs and different methods will be more or less suited to different situations). I reccomend LEDs with wide viewing angles. Can be used with IR LEDs and an IR camera (in theory).
 
+**More details about how I put this together can be found [on my Instructables page](https://www.instructables.com/Flight-Sim-Headtracker-3D-Printable/)**
+
 ## software
 I highly reccomend opentrack as software (https://github.com/opentrack/opentrack). It's free and open-source, user-friendly, capable, and compatible with everything I've tried so far.
